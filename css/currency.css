@@ -60,3 +60,26 @@
   text-align: center;
   color: blue;
 }
+.marq{
+  text-align: center;
+  color: red;
+  width: 600px;
+  font-size: 20px;
+}
+.formhey{
+  background-color: #00e2ff;
+  margin: 20px;
+  border-radius: 80px 0px 80px 0px;
+}
+.currency{
+  padding: 30px;
+  border-radius: 80px 0px 80px 0px;
+  border-color: #ff0058;
+  font-size: 20px;
+}
+
+.inp{
+  border-color: #ff0058;
+  font-size: 16px;
+  text-align: center;
+}
